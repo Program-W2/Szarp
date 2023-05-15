@@ -1,0 +1,5 @@
+C:\Users\Program-W2\Desktop\Szarp\bin\Debug\net7.0\publish\Szarp.exe
+C:\Users\Program-W2\Desktop\Szarp\bin\Debug\net7.0\publish\Szarp.dll
+C:\Users\Program-W2\Desktop\Szarp\bin\Debug\net7.0\publish\Szarp.deps.json
+C:\Users\Program-W2\Desktop\Szarp\bin\Debug\net7.0\publish\Szarp.runtimeconfig.json
+C:\Users\Program-W2\Desktop\Szarp\bin\Debug\net7.0\publish\Szarp.pdb

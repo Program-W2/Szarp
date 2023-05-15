@@ -1,0 +1,15 @@
+C:\Users\Program-W2\Desktop\Szarp\obj\Debug\net7.0\Szarp.csproj.AssemblyReference.cache
+C:\Users\Program-W2\Desktop\Szarp\obj\Debug\net7.0\Szarp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Program-W2\Desktop\Szarp\obj\Debug\net7.0\Szarp.AssemblyInfoInputs.cache
+C:\Users\Program-W2\Desktop\Szarp\obj\Debug\net7.0\Szarp.AssemblyInfo.cs
+C:\Users\Program-W2\Desktop\Szarp\obj\Debug\net7.0\Szarp.csproj.CoreCompileInputs.cache
+C:\Users\Program-W2\Desktop\Szarp\bin\Debug\net7.0\Szarp.exe
+C:\Users\Program-W2\Desktop\Szarp\bin\Debug\net7.0\Szarp.deps.json
+C:\Users\Program-W2\Desktop\Szarp\bin\Debug\net7.0\Szarp.runtimeconfig.json
+C:\Users\Program-W2\Desktop\Szarp\bin\Debug\net7.0\Szarp.dll
+C:\Users\Program-W2\Desktop\Szarp\bin\Debug\net7.0\Szarp.pdb
+C:\Users\Program-W2\Desktop\Szarp\obj\Debug\net7.0\Szarp.dll
+C:\Users\Program-W2\Desktop\Szarp\obj\Debug\net7.0\refint\Szarp.dll
+C:\Users\Program-W2\Desktop\Szarp\obj\Debug\net7.0\Szarp.pdb
+C:\Users\Program-W2\Desktop\Szarp\obj\Debug\net7.0\Szarp.genruntimeconfig.cache
+C:\Users\Program-W2\Desktop\Szarp\obj\Debug\net7.0\ref\Szarp.dll
